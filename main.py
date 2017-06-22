@@ -1,5 +1,7 @@
 import perceptron
 
+#This file is just for tests
+
 # Calculate weights
 dataset = [[2.7810836,2.550537003,0],
 	[1.465489372,2.362125076,0],
